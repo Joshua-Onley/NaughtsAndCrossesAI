@@ -8,4 +8,6 @@ The program implements a very simple GUI using SFML
 
 **Demo**
 
+<img src="https://github.com/Joshua-Onley/NaughtsAndCrosses/blob/main/demo.gif" width="400" />
+
 
