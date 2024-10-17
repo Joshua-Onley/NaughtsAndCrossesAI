@@ -1,0 +1,5 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/x64/ninja -DCMAKE_C_COMPILER=/usr/local/Cellar/gcc/14.2.0/bin/gcc-14 -DCMAKE_CXX_COMPILER=/usr/bin/g++ -G Ninja -S /Users/josh/CLionProjects/NaughtsAndCrosses -B /Users/josh/CLionProjects/NaughtsAndCrosses/cmake-build-debug
+-- Found SFML 2.6.1 in /usr/local/lib/cmake/SFML
+-- Configuring done (1.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/josh/CLionProjects/NaughtsAndCrosses/cmake-build-debug
