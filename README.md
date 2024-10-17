@@ -8,7 +8,8 @@ The program implements a very simple GUI using SFML
 
 **Demo**
 
-![Alt text](demo.gif)
+<img src="demo.gif" width="400" />
+
 
 
 
