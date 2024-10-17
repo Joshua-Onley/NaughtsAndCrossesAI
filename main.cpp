@@ -1,4 +1,4 @@
-git #include <iostream>
+#include <iostream>
 #include <array>
 #include <SFML/Graphics.hpp>
 #include <vector>
